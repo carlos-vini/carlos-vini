@@ -3,8 +3,8 @@
 - 🔭 Atualmente sou estudante do SESI/SENAI
 - 🌱 Nascido e criado em Maceió-AL
 - 👯 Estou estudando as tecnologias HTML, CSS e JS
-- 💬 instagram: @vinilos382
-- 📫 email: carlosvini0382@gmail.com
+- 💬 Instagram: @vinilos382
+- 📫 E-mail: carlosvini0382@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Futuro programador!
 
