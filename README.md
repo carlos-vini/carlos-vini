@@ -5,7 +5,7 @@
 - 👯 Estou estudando as tecnologias HTML, CSS e JS
 - 💬 Instagram: @vinilos382
 - 📫 E-mail: carlosvini0382@gmail.com
-- 😄 Pronomes: ele/dele
+- 😄 Pronomes: ele/ dele
 - ⚡ Futuro programador!
 
 <div align="left">
